@@ -17,7 +17,7 @@ I mostly work with Java/Python, MVC Frameworks and Cloud based technologies. ðŸš
     <img style="width: 90px; height: 90px;" src="https://camo.githubusercontent.com/dc38e4fd1687b889aab581dcb5ba64eca752806efc36a7a0bc450aa35cf5056c/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f4b4171357734375239726d547576574f57612f67697068792e676966" alt="Python" />
   </div>
 </div>
-<div style="display:flex; ">
+<div style="display:flex;flex-direction: row; ">
 <div>
 <h3 style="color:red;">Front-End Technologies:</h3>
 
