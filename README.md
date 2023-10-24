@@ -1,7 +1,9 @@
 
 # Hi there! 👋 I'm [Milan](https://www.linkedin.com/in/milanrajgupta/)
 
-I'm a passionate software developer with a love for technology and a desire to build amazing things. My journey in the tech world has been an exciting ride, and I'm always eager to learn and explore new horizons.
+I'm a passionate a Full Stack Software Engineer from [India](https://en.wikipedia.org/wiki/India)🇮🇳   passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
+
+I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
 ### Technologies I Work With
 
