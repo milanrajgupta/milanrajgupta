@@ -37,8 +37,8 @@ I mostly work with Java/Python, MVC Frameworks and Cloud based technologies. ðŸš
     <img  style="width: 90px; height: 90px; margin-left: 10px;" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" alt="github" />
     <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://cdn.dribbble.com/users/18069/screenshots/2207700/bitbucket.gif" alt="BitBucket" />
     <img  style="width: 90px; height: 90px; margin-left: 10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" alt="Jenkins" />
-    <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://maxmautner.com/public/images/django.gif" alt="Django" />
-    <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" alt="MySQL" />
+    <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://media.tenor.com/z3Vqx6hmE5QAAAAC/whale-docker.gif" alt="Docker" />
+    <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://miro.medium.com/v2/resize:fit:1000/1*pUfSkjNdpS7i_jE3A8OV6Q.gif" alt="MySQL" />
   </div>
 </div>
 
