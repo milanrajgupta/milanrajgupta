@@ -27,6 +27,8 @@ I mostly work with Java/Python, MVC Frameworks and Cloud based technologies. ðŸš
     <img  style="width: 90px; height: 90px; margin-left: 10px;" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring-boot" />
     <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://maxmautner.com/public/images/django.gif" alt="Django" />
     <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" alt="MySQL" />
+    <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://community.cisco.com/t5/image/serverpage/image-id/76276iD6492463E5E8D6F7?v=v2" alt="Postman" />
+    
   </div>
 </div>
 
@@ -39,6 +41,10 @@ I mostly work with Java/Python, MVC Frameworks and Cloud based technologies. ðŸš
     <img  style="width: 90px; height: 90px; margin-left: 10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" alt="Jenkins" />
     <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://media.tenor.com/z3Vqx6hmE5QAAAAC/whale-docker.gif" alt="Docker" />
     <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://miro.medium.com/v2/resize:fit:1000/1*pUfSkjNdpS7i_jE3A8OV6Q.gif" alt="MySQL" />
+    <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://ayudaleyprotecciondatos.es/wp-content/uploads/2020/10/cloud-computing-google.jpg" alt="gcp" />
+    <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://media.tenor.com/GO7C6FD0y3YAAAAC/aws.gif" alt="aws" />
+
+    
   </div>
 </div>
 
