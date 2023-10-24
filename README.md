@@ -37,6 +37,15 @@ I mostly work with Java/Python, MVC Frameworks and Cloud based technologies. ðŸš
   </div>
 </div>
 
+<h3 style="color:red;">Back-End Technologies:</h3>
+
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1; text-align: center; padding:0 10 0 10">
+    <img  style="width: 90px; height: 90px; margin-left: 10px;" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring-boot" />
+    <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://maxmautner.com/public/images/django.gif" alt="Django" />
+  </div>
+</div>
+
 
 ### How to Reach Me
 
