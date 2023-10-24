@@ -10,8 +10,8 @@ I'm a passionate software developer with a love for technology and a desire to b
 
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1; text-align: center; padding:0 10 0 10">
-    <img  style="width: 90px; height: 90px; margin-left: 10px;" src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="C++" />
-    <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://camo.githubusercontent.com/b24914711d892af6d10c99624bb0fa576a0611ae17eb125380c517b2059063a4/68747470733a2f2f6e657861782e696e2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f6a6176612d312e676966" alt="Django" />
+    <img  style="width: 90px; height: 90px; " src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="C++" />
+    <img style="width: 90px; height: 90px; " src="https://camo.githubusercontent.com/b24914711d892af6d10c99624bb0fa576a0611ae17eb125380c517b2059063a4/68747470733a2f2f6e657861782e696e2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f6a6176612d312e676966" alt="Java" />
     <img style="width: 90px; height: 90px;" src="https://camo.githubusercontent.com/dc38e4fd1687b889aab581dcb5ba64eca752806efc36a7a0bc450aa35cf5056c/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f4b4171357734375239726d547576574f57612f67697068792e676966" alt="Python" />
   </div>
 </div>
