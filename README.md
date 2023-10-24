@@ -36,27 +36,11 @@ I'm a passionate software developer with a love for technology and a desire to b
   </div>
 </div>
 
-
 ### How to Reach Me
 
 I'm open to collaboration and connecting with fellow tech enthusiasts. Feel free to reach out to me via social media:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
-- [Twitter](https://twitter.com/your-twitter-username)
-- [GitHub](https://github.com/your-github-username)
-- [Email](mailto:youremail@example.com)
-
-
-
-
-
-
-
-### How to Reach Me
-
-I'm open to collaboration and connecting with fellow tech enthusiasts. Feel free to reach out to me via social media:
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
-- [Twitter](https://twitter.com/your-twitter-username)
-- [GitHub](https://github.com/your-github-username)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/milanrajgupta/)
+- [Twitter](https://twitter.com/milanrajgupta)
+- [Instagram](https://instagram.com/milanrajgupta)
+- [Email](mailto:milankrofficial@gmail.com)
