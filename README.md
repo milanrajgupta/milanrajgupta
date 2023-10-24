@@ -5,11 +5,27 @@ I'm a passionate software developer with a love for technology and a desire to b
 
 ### Technologies I Work With
 
-| Programming Languages | Web Development | Data & Databases | DevOps & Tools |
-| -------------------- | --------------- | --------------- | -------------- |
-| ![Python](link-to-python-gif) | ![HTML/CSS/JS](link-to-html-css-js-gif) | ![SQL](link-to-sql-gif) | ![Docker](link-to-docker-gif) |
-| ![JavaScript](link-to-javascript-gif) | ![React](link-to-react-gif) | | |
-| | ![Node.js](link-to-nodejs-gif) | | |
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; text-align: center;">
+    <b>Programming Languages</b><br>
+    ![Python](link-to-python-gif)<br>
+    ![JavaScript](link-to-javascript-gif)
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <b>Web Development</b><br>
+    ![HTML/CSS/JS](link-to-html-css-js-gif)<br>
+    ![React](link-to-react-gif)<br>
+    ![Node.js](link-to-nodejs-gif)
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <b>Data & Databases</b><br>
+    ![SQL](link-to-sql-gif)
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <b>DevOps & Tools</b><br>
+    ![Docker](link-to-docker-gif)
+  </div>
+</div>
 
 ### How to Reach Me
 
@@ -19,8 +35,6 @@ I'm open to collaboration and connecting with fellow tech enthusiasts. Feel free
 - [Twitter](https://twitter.com/your-twitter-username)
 - [GitHub](https://github.com/your-github-username)
 - [Email](mailto:youremail@example.com)
-In this updated template, I've organized the technologies into rows within a table. You can add or remove rows and columns as needed to represent your tech stack. Make sure to replace the placeholders with your actual information, URLs, and GIF links.
-
 
 
 
