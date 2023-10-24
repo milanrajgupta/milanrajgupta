@@ -17,29 +17,29 @@ I mostly work with Java/Python, MVC Frameworks and Cloud based technologies. ðŸš
     <img style="width: 90px; height: 90px;" src="https://camo.githubusercontent.com/dc38e4fd1687b889aab581dcb5ba64eca752806efc36a7a0bc450aa35cf5056c/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f4b4171357734375239726d547576574f57612f67697068792e676966" alt="Python" />
   </div>
 </div>
-<div style="display:flex;flex-direction: row; ">
-<div>
-<h3 style="color:red;">Front-End Technologies:</h3>
-
 <div style="display: flex; flex-direction: row;">
-  <div style="flex: 1; text-align: center; padding:0 10 0 10">
-    <img  style="width: 90px; height: 90px; margin-left: 10px;" src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" alt="HTML/CSS/JS" />
-    <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://miro.medium.com/v2/resize:fit:896/1*1ISnBKKdJMAb7kilkNqvbw.gif" alt="Angular" />
-    <img style="width: 90px; height: 90px;" src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b9521ivb2r0c1ewhzyelvrx6txwa0pzbir1bw87gzjy3&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="React JS" />
-  </div>
-</div>
-</div>
-<div>
-<h3 style="color:red;">Back-End Technologies:</h3>
+  <div style="margin: 10px;">
+    <h3 style="color: red;">Front-End Technologies:</h3>
 
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1; text-align: center; padding:0 10 0 10">
-    <img  style="width: 90px; height: 90px; margin-left: 10px;" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring-boot" />
-    <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://maxmautner.com/public/images/django.gif" alt="Django" />
+    <div style="display: flex; flex-direction: row; justify-content: center;">
+      <div style="text-align: center; padding: 0 10px;">
+        <img style="width: 90px; height: 90px; margin: 0 10px;" src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" alt="HTML/CSS/JS" />
+        <img style="width: 90px; height: 90px; margin: 0 10px;" src="https://miro.medium.com/v2/resize:fit:896/1*1ISnBKKdJMAb7kilkNqvbw.gif" alt="Angular" />
+        <img style="width: 90px; height: 90px; margin: 0 10px;" src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b9521ivb2r0c1ewhzyelvrx6txwa0pzbir1bw87gzjy3&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="React JS" />
+      </div>
+    </div>
   </div>
-</div>
-</div>
 
+  <div style="margin: 10px;">
+    <h3 style="color: red;">Back-End Technologies:</h3>
+
+    <div style="display: flex; flex-direction: row; justify-content: center;">
+      <div style="text-align: center; padding: 0 10px;">
+        <img style="width: 90px; height: 90px; margin: 0 10px;" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring-boot" />
+        <img style="width: 90px; height: 90px; margin: 0 10px;" src="https://maxmautner.com/public/images/django.gif" alt="Django" />
+      </div>
+    </div>
+  </div>
 </div>
 
 ### How to Reach Me
