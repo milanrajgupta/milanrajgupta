@@ -3,7 +3,7 @@
 
 I'm a passionate a Full Stack Software Engineer from [India](https://en.wikipedia.org/wiki/India)🇮🇳   passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
 
-I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
+I mostly work with Java/Python, MVC Frameworks and Cloud based technologies. 🚀
 
 ### Technologies I Work With
 
