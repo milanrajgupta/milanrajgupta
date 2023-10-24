@@ -8,7 +8,7 @@ I'm a passionate software developer with a love for technology and a desire to b
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; text-align: center;">
     <b>Programming Languages</b><br>
-<img style="width:200px ;height:150px " src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="pyhton img"></img>
+<img style="width:200px ;height:150px " src="https://i.pinimg.com/564x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" alt="pyhton img"></img>
   </div>
   <div style="flex: 1; text-align: center;">
     <b>Web Development</b><br>
