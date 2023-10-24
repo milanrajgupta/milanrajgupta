@@ -6,7 +6,7 @@ I'm a passionate software developer with a love for technology and a desire to b
 ### Technologies I Work With
 
 
-<h2 style="color:blue;">Programming Languages:</h2>
+<h3 style="color:blue;">Programming Languages:</h3>
 
 <div style="display: flex; flex-direction:row;">
   <div style="flex: 1; text-align: center;">
