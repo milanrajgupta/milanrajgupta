@@ -8,8 +8,7 @@ I'm a passionate software developer with a love for technology and a desire to b
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; text-align: center;">
     <b>Programming Languages</b><br>
-    ![Python](https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa)<br>
-    ![JavaScript](link-to-javascript-gif)
+<img src="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa" alt="pyhton img"></img>
   </div>
   <div style="flex: 1; text-align: center;">
     <b>Web Development</b><br>
