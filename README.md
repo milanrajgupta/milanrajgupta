@@ -26,7 +26,7 @@ I mostly work with Java/Python, MVC Frameworks and Cloud based technologies. ðŸš
     <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://miro.medium.com/v2/resize:fit:896/1*1ISnBKKdJMAb7kilkNqvbw.gif" alt="Angular" />
     <img  style="width: 90px; height: 90px; margin-left: 10px;" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring-boot" />
     <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://maxmautner.com/public/images/django.gif" alt="Django" />
-    <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png" alt="MySQL" />
+    <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" alt="MySQL" />
   </div>
 </div>
 
