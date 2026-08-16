@@ -43,6 +43,7 @@ I mostly work with Java/Python, MVC Frameworks and Cloud based technologies. ðŸš
     <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://miro.medium.com/v2/resize:fit:1000/1*pUfSkjNdpS7i_jE3A8OV6Q.gif" alt="MySQL" />
     <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://ayudaleyprotecciondatos.es/wp-content/uploads/2020/10/cloud-computing-google.jpg" alt="gcp" />
     <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://media.tenor.com/GO7C6FD0y3YAAAAC/aws.gif" alt="aws" />
+    <img style="width: 90px; height: 90px; margin-left: 30px;" src="https://media.tenor.com/GO7C6FD0y3YAAAAC/aws.gi](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" alt="aws" />
 
     
   </div>
